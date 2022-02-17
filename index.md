@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+- Bulleted
+- Bear1
+- Bear2
+`Code`
+![Big Bear](https://www.ikea.com/kr/en/images/products/djungelskog-soft-toy-brown-bear__0877178_pe662336_s5.jpg)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -14,6 +20,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+## Isawa is a bear.
 
 - Bulleted
 - List
